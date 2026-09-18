@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abdur Rahim</h1>
 
-<!--
-**rahim709/rahim709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Full Stack Developer & 4th Year CSE Student</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 MERN Stack Developer
+- 🎓 Dual Degree CSE @ IIITDM Kancheepuram
+- 🚀 Building scalable web applications and REST APIs
+- 🏆 Solved 700+ DSA problems
+- 📍 Chennai, India
+
+### 📫 Reach Me
+
+- Email: abdurrahimer2004@gmail.com
+- LinkedIn: https://linkedin.com/in/abdur-rahim-422a83271
+- Portfolio: https://www.abdurdev.blog/
+- LeetCode: https://leetcode.com/u/CoderRahim/
+
+### Connect with Me
+
+<a href="https://linkedin.com/in/abdur-rahim-422a83271">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
+
+<a href="https://github.com/rahim709">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</a>
